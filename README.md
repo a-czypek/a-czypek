@@ -8,4 +8,4 @@
 
 
 ## GitHub Stats
- [![Angelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-czypek&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/a-czypek/github-readme-stats)
+ ![](https://github-readme-stats.vercel.app/api?username=a-czypek&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
