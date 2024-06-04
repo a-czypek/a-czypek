@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Angelika 👋
 
 
 👩🏻‍💻 Aspiring Software Engineer passionate about programming and tech innovation
@@ -7,5 +7,5 @@
 💡 Currently learning new programming languages and algorithms!
 
 
-##GitHub Stats
+## GitHub Stats
  [![Angelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-czypek&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/a-czypek/github-readme-stats)
