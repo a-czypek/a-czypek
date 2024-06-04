@@ -9,4 +9,4 @@
 
 💡 Currently learning new programming languages and algorithms!
 
- [![Angelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-czypek)](https://github.com/a-czypek/github-readme-stats)
+ [![Angelika's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-czypek&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/a-czypek/github-readme-stats)
